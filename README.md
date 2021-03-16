@@ -42,3 +42,16 @@ Available everywhere, no installation needed, but can be installed for offline u
 
 how to have images in neofetch 
 https://github.com/dylanaraps/neofetch/wiki/Images-in-the-terminal
+
+
+https://surf.suckless.org
+
+surf is a simple web browser based on WebKit2/GTK+. It is able to display websites and follow links. It supports the XEmbed protocol which makes it possible to embed it in another application. Furthermore, one can point surf to another URI by setting its XProperties.
+
+in via terminal 
+
+Start the browser with
+
+surf http://your-url
+
+
