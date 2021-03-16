@@ -1,5 +1,5 @@
 # Configs
-Things you might need the lua.rc is still begin worked on but i will update it to time to time 
+Things you might need the lua.rc is still begin worked on but i will update it to time to time here are some things unixporn users use and here are some rc files you can edit 
  
 color scripts https://gitlab.com/dwt1/shell-color-scripts
 
