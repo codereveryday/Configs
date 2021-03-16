@@ -1,11 +1,11 @@
 # Configs
-things you might need the lua.rc is still begin worked on but i will update it to time to time 
+Things you might need the lua.rc is still begin worked on but i will update it to time to time 
 
 color scripts https://gitlab.com/dwt1/shell-color-scripts
 
 cava https://github.com/karlstav/cava
 
-https://github.com/xorg62/tty-clock
+terminal clock https://github.com/xorg62/tty-clock
 
 compton https://github.com/chjj/comp
 
@@ -27,6 +27,15 @@ https://vim.rtorr.com
 another cheat sheet 
 https://github.com/chubin/cheat.sh 
 or type cheat.sh in your browser 
+
+cheat.sh
+Has a simple curl/browser/editor interface.
+Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
+Provides access to the best community driven cheat sheets repositories in the world, on par with StackOverflow.
+Available everywhere, no installation needed, but can be installed for offline usage.
+
+
+
 
 how to have images in neofetch 
 https://github.com/dylanaraps/neofetch/wiki/Images-in-the-terminal
