@@ -11,8 +11,8 @@ compton https://github.com/chjj/comp
 
 cool themes for awesome https://github.com/lcpz/awesome-copycatston
 
-zathura a doc viewer if you want zathura transparent then you gotta patch the code in the zathura.rc
 https://pwmt.org/projects/zathura/
+zathura a doc viewer if you want zathura transparent then you gotta patch the code in the zathura.rc
 
 patch 
 https://www.reddit.com/r/unixporn/comments/eq1714/i3_zathura_with_proper_transparency/
@@ -33,7 +33,6 @@ Has a simple curl/browser/editor interface.
 Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.
 Provides access to the best community driven cheat sheets repositories in the world, on par with StackOverflow.
 Available everywhere, no installation needed, but can be installed for offline usage.
-
 
 
 
