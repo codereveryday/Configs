@@ -1,6 +1,6 @@
 # Configs
 Things you might need the lua.rc is still begin worked on but i will update it to time to time 
-
+ 
 color scripts https://gitlab.com/dwt1/shell-color-scripts
 
 cava https://github.com/karlstav/cava
@@ -20,6 +20,9 @@ https://www.reddit.com/r/unixporn/comments/eq1714/i3_zathura_with_proper_transpa
 https://github.com/b4dtR1p/awesome/blob/master/.xinitrc
 this code right here allows you to go into tty and boot up awesome while in your current de or wm 
 make sure to paste this code in your .xintrc or check tty.txt in the awesome folder
+
+how to acess tty 
+ctrl alt f1 
 
 
 vim cheat sheet :)
