@@ -19,7 +19,7 @@ https://www.reddit.com/r/unixporn/comments/eq1714/i3_zathura_with_proper_transpa
 
 https://github.com/b4dtR1p/awesome/blob/master/.xinitrc
 this code right here allows you to go into tty and boot up awesome while in your current de or wm 
-make sure to paste this code in your .xintrc 
+make sure to paste this code in your .xintrc or check tty.txt in the awesome folder
 
 
 vim cheat sheet :)
