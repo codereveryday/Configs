@@ -1,8 +1,6 @@
 # Configs
-Things you might need the lua.rc is still begin worked on but i will update it to time to time here are some things unixporn users use and here are some rc files you can edit and some cheat sheets will be adding more things 
- 
+Welcome to my configs i have dwm and awesome wm configs and other things you made see on unixporn forums like wallpapers and terminal emulators and others :)
 color scripts https://gitlab.com/dwt1/shell-color-scripts
-
 cava https://github.com/karlstav/cava
 
 terminal clock https://github.com/xorg62/tty-clock
