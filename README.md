@@ -1,10 +1,9 @@
 # Configs
 Welcome to my configs i have dwm and awesome wm configs and other things you made see on unixporn forums like wallpapers and terminal emulators and others :)<br>
-color scripts 
-https://gitlab.com/dwt1/shell-color-scripts
-cava https://github.com/karlstav/cava
+color scripts https://gitlab.com/dwt1/shell-color-scripts <br>
+cava https://github.com/karlstav/cava <br>
 
-terminal clock https://github.com/xorg62/tty-clock
+terminal clock https://github.com/xorg62/tty-clock <br>
 
 compton https://github.com/chjj/comp
 
