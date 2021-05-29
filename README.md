@@ -53,5 +53,6 @@ Start the browser with
 surf http://your-url
 
 
-for my terminal i use alacritty you prob got to install alacritty on your system just so it will work with my dot files https://www.geeksforgeeks.org/how-to-install-and-use-alacritty-terminal-emulator-in-linux/ or this site https://github.com/alacritty/alacritty/blob/master/INSTALL.md
+for my terminal i use alacritty you prob got to install alacritty on your system just so it will work with my dot files https://www.geeksforgeeks.org/how-to-install-and-use-alacritty-terminal-emulator-in-linux/ or this site<br> 
+https://github.com/alacritty/alacritty/blob/master/INSTALL.md <br>
 here is a another terminal https://sw.kovidgoyal.net/kitty/
