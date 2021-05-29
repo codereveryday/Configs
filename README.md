@@ -16,11 +16,11 @@ patch
 https://www.reddit.com/r/unixporn/comments/eq1714/i3_zathura_with_proper_transparency/
 
 https://github.com/b4dtR1p/awesome/blob/master/.xinitrc
-this code right here allows you to go into tty and boot up awesome while in your current de or wm 
+this code right here allows you to go into tty and boot up into awesome wm or any wm or de :) while in your current de or wm 
 make sure to paste this code in your .xintrc or check tty.txt in the awesome folder
 
 how to acess tty 
-ctrl alt f1 
+ctrl alt f1 to f4
 
 
 vim cheat sheet :)
@@ -54,3 +54,4 @@ surf http://your-url
 
 
 for my terminal i use alacritty you prob got to install alacritty on your system just so it will work with my dot files https://www.geeksforgeeks.org/how-to-install-and-use-alacritty-terminal-emulator-in-linux/ or this site https://github.com/alacritty/alacritty/blob/master/INSTALL.md
+here is a another terminal https://sw.kovidgoyal.net/kitty/
